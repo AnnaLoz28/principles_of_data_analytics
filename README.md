@@ -79,8 +79,8 @@ The Iris dataset is widely used today in statistics and machine learning. It is 
 
 *Sources:*
 
-https://en.wikipedia.org/wiki/Iris_flower_data_set
-https://archive.ics.uci.edu/dataset/53/iris
-https://scikit-learn.org/1.4/auto_examples/datasets/plot_iris_dataset.html
-https://cloudinary.com/guides/web-performance/4-ways-to-add-images-to-github-readme-1-bonus-method#:~:text=The%20easiest%20way%20to%20add,you%20want%20it%20to%20appear.
-https://dev.to/kammarianand/ml-intro-iris-dataset-4e13 
+https://en.wikipedia.org/wiki/Iris_flower_data_set  
+https://archive.ics.uci.edu/dataset/53/iris  
+https://scikit-learn.org/1.4/auto_examples/datasets/plot_iris_dataset.html  
+https://cloudinary.com/guides/web-performance/4-ways-to-add-images-to-github-readme-1-bonus-method#:~:text=The%20easiest%20way%20to%20add,you%20want%20it%20to%20appear    
+https://dev.to/kammarianand/ml-intro-iris-dataset-4e13   
