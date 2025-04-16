@@ -1,7 +1,7 @@
-1. NumPy
-2. SciPy
-3. Matplotlib
-4. Pandas
-5. Scikit-learn
-6. Seaborn
-7. Statsmodels
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+seaborn
+statsmodels
