@@ -73,12 +73,13 @@ The Iris dataset is widely used today in statistics and machine learning. It is 
 <p align="center">
 <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2tcrzxvzwfn64ru9jb5p.png" width="100%" alt="Logo">
 </p>
-*image from: https://dev.to/kammarianand/ml-intro-iris-dataset-4e13*
+*image from: https://dev.to/kammarianand/ml-intro-iris-dataset-4e13
 
 *Sources:*
 
-https://en.wikipedia.org/wiki/Iris_flower_data_set  
-https://archive.ics.uci.edu/dataset/53/iris  
-https://scikit-learn.org/1.4/auto_examples/datasets/plot_iris_dataset.html  
-https://cloudinary.com/guides/web-performance/4-ways-to-add-images-to-github-readme-1-bonus-method#:~:text=The%20easiest%20way%20to%20add,you%20want%20it%20to%20appear    
-https://dev.to/kammarianand/ml-intro-iris-dataset-4e13   
+https://en.wikipedia.org/wiki/Iris_flower_data_set    
+https://archive.ics.uci.edu/dataset/53/iris    
+https://scikit-learn.org/1.4/auto_examples/datasets/plot_iris_dataset.html    
+https://cloudinary.com/guides/web-performance/4-ways-to-add-images-to-github-readme-1-bonus-method#:~:text=The%20easiest%20way%20to%20add,you%20want%20it%20to%20appear      
+https://flexiple.com/python/exploratory-data-analysis-on-iris-dataset      
+https://dev.to/kammarianand/ml-intro-iris-dataset-4e13     
